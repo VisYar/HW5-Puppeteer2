@@ -15,6 +15,7 @@
   "author": "dmitrieva",
   "license": "ISC",
   "devDependencies": {
+    "@cucumber/cucumber": "^8.10.0",
     "chai": "^4.3.7",
     "cucumber": "^6.0.7",
     "jest": "^29.3.1",
